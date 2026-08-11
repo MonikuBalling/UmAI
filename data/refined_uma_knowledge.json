@@ -1,0 +1,97 @@
+{
+  "scraped_count": 0,
+  "scraped_sample": [],
+  "master_cards": {
+    "たづな＆ライトハロー": {
+      "name": "SSRたづな＆ライトハロー",
+      "type": "グループ/友人",
+      "scenario": "恩返しトレセンラーメン軒 (最新シナリオリンク友人)",
+      "tier": "SSランク (最高峰必須)",
+      "features": "ラーメン仕込み・出前特訓・お出かけ回復量・やる気維持の最高峰。ラーメンシナリオ絶対必須枠。",
+      "is_trap": false
+    },
+    "都留岐涼花": {
+      "name": "SSR都留岐涼花",
+      "type": "友人",
+      "scenario": "UAFシナリオリンク / 汎用",
+      "tier": "Sランク",
+      "features": "汎用友人枠。コンディショニングとやる気効果高め。",
+      "is_trap": false
+    },
+    "アーモンドアイ": {
+      "name": "SSRアーモンドアイ",
+      "type": "スピード",
+      "scenario": "最新スピ上限2100時代",
+      "tier": "SSランク",
+      "features": "スピード2100時代上限突破の最高峰サポカ。圧倒的得意率と練習性能。",
+      "is_trap": false
+    },
+    "エルコンドルパサー": {
+      "name": "SSRエルコンドルパサー",
+      "type": "スピード",
+      "scenario": "汎用/中距離",
+      "tier": "S+ランク",
+      "features": "金加速スキル『王手』確保のキーカード。練習性能もトップクラス。",
+      "is_trap": false
+    },
+    "オルフェーヴル": {
+      "name": "SSRオルフェーヴル",
+      "type": "根性/汎用",
+      "scenario": "汎用",
+      "tier": "SSランク",
+      "features": "全属性上限アップと『神速』金スキルが極めて強力。",
+      "is_trap": false
+    },
+    "フォーエバーヤング": {
+      "name": "SSRフォーエバーヤング",
+      "type": "賢さ",
+      "scenario": "最新",
+      "tier": "S+ランク",
+      "features": "賢さ＆スキルPt生成効率最強枠。",
+      "is_trap": false
+    },
+    "サウンズオブアース": {
+      "name": "SSRサウンズオブアース",
+      "type": "スタミナ",
+      "scenario": "中・長距離",
+      "tier": "S+ランク",
+      "features": "スタミナ枠最高峰。長距離レース育成必須。",
+      "is_trap": false
+    },
+    "ネオユニヴァース": {
+      "name": "SSRネオユニヴァース",
+      "type": "パワー",
+      "scenario": "中距離特化",
+      "tier": "A+ランク",
+      "features": "中距離特化パワーステ枠。中距離中盤金スキルが強力。",
+      "is_trap": false
+    },
+    "ダンツフレーム": {
+      "name": "SSRダンツフレーム",
+      "type": "スタミナ",
+      "scenario": "中距離",
+      "tier": "Aランク",
+      "features": "中距離用スタミナ枠。安定性能。",
+      "is_trap": false
+    },
+    "駿川たづな(単体)": {
+      "name": "旧SSR駿川たづな (単体)",
+      "type": "旧友人",
+      "scenario": "初期URA時代",
+      "tier": "Dランク (旧世代)",
+      "features": "※単体たづなは初期URA用。最新ラーメンシナリオではコンビ『たづな＆ライトハロー』を使うべし。",
+      "is_trap": true
+    },
+    "ライトハロー(単体)": {
+      "name": "旧SSRライトハロー (単体)",
+      "type": "旧友人",
+      "scenario": "グランドライブ時代",
+      "tier": "Dランク (旧世代)",
+      "features": "※単体ライトハローは過去シナリオ用。最新ラーメンシナリオではコンビ『たづな＆ライトハロー』を使うべし。",
+      "is_trap": true
+    }
+  },
+  "active_scenario": "恩返しトレセンラーメン軒",
+  "speed_cap": 2100,
+  "last_refined": "2026-08-11_DEEP_REFINED"
+}
