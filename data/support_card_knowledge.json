@@ -1,0 +1,113 @@
+{
+  "total_cards_scraped": 9,
+  "cards_list": [
+    {
+      "name": "ひでぽん",
+      "image_url": "https://static.kouryaku.tools/umamusume/images/supporters/g1/hideki_nankou/icon.png?width=128",
+      "source": "https://xn--gck1f423k.xn--1bvt37a.tools"
+    },
+    {
+      "name": "Polaris(ポラリス)",
+      "image_url": "https://static.kouryaku.tools/umamusume/images/supporters/lg/Factor_Inherit/icon.png?width=128",
+      "source": "https://xn--gck1f423k.xn--1bvt37a.tools"
+    },
+    {
+      "name": "たれぞう",
+      "image_url": "https://static.kouryaku.tools/umamusume/images/supporters/g2/tarezo_uma/icon.png?width=128",
+      "source": "https://xn--gck1f423k.xn--1bvt37a.tools"
+    },
+    {
+      "name": "ゴールドシチーコミュニティ",
+      "image_url": "https://static.kouryaku.tools/umamusume/images/supporters/g2/umauma_tanaka/icon.png?width=128",
+      "source": "https://xn--gck1f423k.xn--1bvt37a.tools"
+    },
+    {
+      "name": "もるぽん",
+      "image_url": "https://static.kouryaku.tools/umamusume/images/supporters/g2/hanbun_pom/icon.png?width=128",
+      "source": "https://xn--gck1f423k.xn--1bvt37a.tools"
+    },
+    {
+      "name": "七篠/ナナシノ",
+      "image_url": "https://static.kouryaku.tools/umamusume/images/supporters/g2/noname06sam/icon.png?width=128",
+      "source": "https://xn--gck1f423k.xn--1bvt37a.tools"
+    },
+    {
+      "name": "kinghalo",
+      "image_url": "https://static.kouryaku.tools/umamusume/images/illust/kinghalo.png?width=420",
+      "source": "https://xn--gck1f423k.xn--1bvt37a.tools"
+    },
+    {
+      "name": "kinghalo",
+      "image_url": "https://static.kouryaku.tools/umamusume/images/illust/kinghalo.png?width=640",
+      "source": "https://xn--gck1f423k.xn--1bvt37a.tools"
+    },
+    {
+      "name": "currenchan",
+      "image_url": "https://static.kouryaku.tools/umamusume/images/illust/currenchan.png?width=420",
+      "source": "https://xn--gck1f423k.xn--1bvt37a.tools"
+    }
+  ],
+  "master_knowledge": {
+    "SSRたづな＆ライトハロー": {
+      "type": "グループ/友人",
+      "scenario": "恩返しトレセンラーメン軒/現在最新必須",
+      "gold_skill": "ラーメン特出・やる気/お出かけコンボ",
+      "eval": "ラーメンシナリオ最新の特化シナリオリンク友人カード！神お出かけ＆具材回収必須枠。"
+    },
+    "SSR都留岐涼花": {
+      "type": "友人",
+      "scenario": "UAF時代/汎用",
+      "gold_skill": "コンディショニング",
+      "eval": "汎用友人枠。"
+    },
+    "SSRキタサンブラック": {
+      "type": "スピード",
+      "scenario": "汎用",
+      "gold_skill": "弧線のプロフェッサー",
+      "eval": "得意率最強のスピード基本サポカ。"
+    },
+    "SSRオルフェーヴル": {
+      "type": "根性/汎用",
+      "scenario": "汎用",
+      "gold_skill": "神速",
+      "eval": "全属性上限アップと神速金スキルが超強力。"
+    },
+    "SSRエルコンドルパサー": {
+      "type": "スピード",
+      "scenario": "汎用",
+      "gold_skill": "王手",
+      "eval": "中距離先行・差しの必須金加速。"
+    },
+    "SSRアーモンドアイ": {
+      "type": "スピード",
+      "scenario": "最新ハイエンド",
+      "gold_skill": "圧倒的スピード突破",
+      "eval": "スピ2100時代上限突破の最強枠。"
+    },
+    "SSRサウンズオブアース": {
+      "type": "スタミナ",
+      "scenario": "長距離/中距離",
+      "gold_skill": "好転一息/ハヤテ一文字",
+      "eval": "スタミナ枠の最高峰。長距離必須。"
+    },
+    "SSRフォーエバーヤング": {
+      "type": "賢さ",
+      "scenario": "最新",
+      "gold_skill": "頭脳派スキルPt爆発",
+      "eval": "スキルPt生成効率最強枠。"
+    },
+    "SSRネオユニヴァース": {
+      "type": "パワー/中距離",
+      "scenario": "中距離",
+      "gold_skill": "中距離直線/コーナー金",
+      "eval": "中距離特化パワーステ枠。"
+    },
+    "SSRダンツフレーム": {
+      "type": "スタミナ/中距離",
+      "scenario": "中距離",
+      "gold_skill": "スタミナキープ",
+      "eval": "中距離安定枠。"
+    }
+  },
+  "learned_at": "AUTO_BACKGROUND_BACKGROUND"
+}
